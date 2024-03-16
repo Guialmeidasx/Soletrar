@@ -1,0 +1,2 @@
+# Soletrar
+Resolução exercício: Soletrar
